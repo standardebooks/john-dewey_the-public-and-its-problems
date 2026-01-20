@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71000</dc:source>
 		<dc:source>https://archive.org/details/publicitsproblem0000dewe</dc:source>
-		<meta property="se:word-count">52988</meta>
+		<meta property="se:word-count">52962</meta>
 		<meta property="se:reading-ease.flesch">38.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Public_and_Its_Problems</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-dewey_the-public-and-its-problems</meta>
